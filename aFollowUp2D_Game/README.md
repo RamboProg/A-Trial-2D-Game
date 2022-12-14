@@ -1,4 +1,4 @@
-## Making a 2d Game
+## Making a 2D Game
 
 I am following a tutorial on how to make a full 2D game with an old retro type of game like a treasure hunt stuff.
 
